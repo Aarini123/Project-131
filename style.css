@@ -1,0 +1,35 @@
+body{
+background-image: linear-gradient(to right top,  #b1b1b1, #6d6d6d, #363636, #000000);
+}
+
+body{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+color: #ffffff;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+
+#btn{
+    color: rgb(121, 121, 121);
+   background-color: #ffffff;
+    font-weight: 600;
+    width: 300;
+border-radius: 10px;
+box-shadow: 5px 5px 5px white ;
+font-family:cursive;
+margin-top: 40px;
+height: 40px;
+font-size: 25;
+border-color: #ffffff;
+}
